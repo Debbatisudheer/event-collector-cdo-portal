@@ -1,0 +1,18 @@
+# Binaries
+collector.exe
+devices.exe
+*.exe
+
+# Go build cache
+bin/
+dist/
+
+# BoltDB or other local DB files
+*.db
+*.bolt
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
